@@ -1,0 +1,1 @@
+Populate this directory with source images and masks under a directory for the experiment. SAMPLE would be JSRT_SOURCE_A for instance. Then call cross_vapl_splitter to create the directories under the input/nodule_files directory
